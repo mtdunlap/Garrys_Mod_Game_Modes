@@ -49,6 +49,8 @@ The murderer has two reasons to pickup clues:
     1. To deny those clues from a bystander;
     2. To assume the identity of a corpse.
 
+The murderer must consume one (1) clue to assume the identity of a corpse.
+
 ### Abilities
 
 #### Bystanders
@@ -64,7 +66,7 @@ Bystanders have no abilities: none, nada, zero, zilch.
 The murderer has the following three (3) abilites:
 
     1. The murderer can sprint;
-    2. The recent color-coded footprints of **ALL** players are visible to the murderer, including those of the murderer him/herself;
+    2. The recent color-coded footprints of all players (including him/herself) are visible to the murderer.
     3. The murderer can assume the identity of a corpse.
 
 To steal a corpse's identity, the murderer consumes one of his/her clues. The muderer will then swap his/her appearance and name with that of the corpse.
