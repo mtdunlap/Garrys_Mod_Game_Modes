@@ -36,7 +36,7 @@ Only the murderer can acquire the knife. The murderer will reaqcuire the knife i
 
 ### Clues
 
-Clues can be identified by a glowing green outline. Once acquired, the clue will disappear and the number of clues one currently has will increment by one (1). This number is tracked in the lower left hand corner, under the player's name and in the middle of his/her color.
+Over time, clues will spawn in various places around the map. Clues can be identified by a glowing green outline. Once acquired, the clue will disappear and the number of clues one currently has will increment by one (1). This number is tracked in the lower left hand corner, under the player's name and in the middle of his/her color.
 
 #### Bystanders
 
